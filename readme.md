@@ -1,4 +1,4 @@
-npm init
+npm init  
 npm install electron
 
 npm start
